@@ -1,73 +1,32 @@
-<h1 align="center">🔥 Welcome to My Land of Dawn! 🔥</h1>
+:wave: Hi! I'm Reg Chiu. 
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/99/Mobile_Legends_Bang_Bang_logo.png" width="200" />
-</p>
+![](https://komarev.com/ghpvc/?username=regchiu&color=blueviolet&style=flat-square)
 
-<p align="center">
-  <i>“Victory is always mine!” – Alucard</i>
-</p>
+I am a front-end engineer, I love JavaScript, I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
 
----
+🌱 I'm currently learning:
 
-## 🧑‍💻 Tentang Saya
+&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Vue.js](https://img.shields.io/badge/-Vue.js-34495E?style=flat-square&logo=Vue.js)&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-34495E?style=flat-square&logo=Nuxt.js)&ensp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
 
-- 🎮 Nama: **🔁 GANTI Nama Kamu**
-- 🏹 Role Favorit: **🔁 Fighter / Assassin / Mage / Support / Tank / Marksman**
-- 💻 Tech Stack: **Flutter | Kotlin | Firebase | Node.js**
-- 📍 Lokasi: **🔁 Kota / Negara**
-- 🌟 Rank MLBB: **🔁 Mythic / Legend / Epic / dst.**
+:rocket: I'm use these tools:
 
-> Developer by day, Mythical Glory by night 🌙
+&ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
----
+📫 How to reach me:
 
-## 🧰 Tech Stack
+&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:regx1385@gmail.com)&ensp;[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://nextjs-blog.regchiu.vercel.app/)
 
-<div align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+:musical_note: I'm currently listening:
 
-</div>
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
 
----
+:bar_chart: GitHub stats
 
-## 📊 GitHub Stats
+![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=regchiu&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=🔁USERNAME_GITHUB&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=🔁USERNAME_GITHUB&theme=tokyonight" width="49%"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
----
+----
+Credit: [regchiu](https://github.com/regchiu)
 
-## 🔥 Kutipan Hero MLBB Favorit
-
-> 💬 **"Time to witness the handsome!"** – Gusion  
-> ⚔️ **"My swordsmanship is almost as good looking as I am."** – Lancelot  
-> 🧠 **"Nothing lasts forever, we can change the future."** – Harley
-
----
-
-## 🧩 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:🔁EMAIL_KAMU)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/🔁USERNAME_INSTAGRAM)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/🔁USERNAME_LINKEDIN)
-
-🎮 MLBB ID: **🔁 Tulis ID kamu di sini**
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/NbD32z5BYGQAAAAC/mobile-legends.gif" width="200" />
-</p>
-
-<p align="center">
-  <b>"Code like you're in Mythic. Push like you're in Ranked!"</b> ⚔️
-</p>
+Last Edited on: 23/09/2020
