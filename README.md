@@ -9,5 +9,5 @@ hi, im ganang 🔮.
 ! program engineer, web developer and shitposter
 ```
 ------
-[jewdev](https://github.com/pawpawly)
+[pawpawly](https://github.com/pawpawly)
 Last Edited on: 10/04/2024
