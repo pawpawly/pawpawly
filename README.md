@@ -1,7 +1,7 @@
   <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://pawpawly.github.io/">Pawpaw</a></b>.
     <br>I'm a graduate of informatics engineering from Banjarmasin, Indonesia.<br>
 </samp>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
@@ -11,21 +11,21 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
-<p>Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra’s shortest path visualizer.</a></p>
+<p>My Portfolio: <a href="https://pawpawly.github.io/">pawpawly.github.io</a></p>
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/muhammad-ganang-ramadhan-563380331/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Twitter"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/mhganangrmdhn/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Instagram"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/@cookiessly">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
 </p> 
 </samp>
 </details>
 <hr>
-<p>Credits: <a href="pawpawly.github.io">Pawpaw</a></p>
+<p>Credits: <a href="https://pawpawly.github.io/">Pawpaw</a></p>
 <p>Last Edited on: 01/11/2025</p> 
