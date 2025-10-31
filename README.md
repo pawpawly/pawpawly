@@ -1,13 +1,31 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
-```diff
-hi, im ganang 🔮.
-
-@@advanced programming student.@@
-+ living in Banjarmasin, Indonesia.
-- 21 years old
-! program engineer, web developer and shitposter
-```
-------
-[pawpawly portfolio](pawpawly.github.io)
-Last Edited on: 10/04/2024
+  <p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a graduate of informatics engineering from Banjarmasin, Indonesia.<br>
+</samp>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+</p>
+<details align="center">
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
+<p>Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra’s shortest path visualizer.</a></p>
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Twitter"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+</p> 
+</samp>
+</details>
+<hr>
+<p>Credits: <a href="pawpawly.github.io">Pawpaw</a></p>
+<p>Last Edited on: 01/11/2025</p> 
