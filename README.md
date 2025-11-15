@@ -17,10 +17,6 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/mhganangrmdhn/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Instagram"></a>
-  &nbsp; 
-  &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/@cookiessly">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
 </p> 
