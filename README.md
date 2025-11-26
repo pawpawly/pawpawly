@@ -28,11 +28,11 @@
 <p align="center">
 
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/firebase.svg" width="45" height="45" />
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="firebase" />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/javascript.svg" width="45" height="45" />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="javascript" />
   </a>
 
   <a href="https://nextjs.org/" target="_blank">
@@ -56,7 +56,6 @@
   </a>
 
 </p>
-
 
 </p>
 
