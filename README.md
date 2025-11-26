@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://pawpawly.github.io/">Pawpaw</a></b>.
-    <br>I'm a graduate of informatics engineering from Banjarmasin, Indonesia.<br>
+    <br>I'm Fullstack Developer from Banjarmasin, Indonesia.<br>
   </samp>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 </p>
@@ -20,39 +20,25 @@
 </a>
 </p>
 
-<b><h2 style="color: #fc6203">Languages and Tools</h2> </b>
-
+<b><h2 style="color: #fc6203">L A N G U A G E S &nbsp; A N D &nbsp; T O O L S</h2> </b>
 <p align="center">
 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="firebase" />
-  </a>
+  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/firebase.svg" width="45" height="45" />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="javascript" />
-  </a>
+  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/javascript.svg" width="45" height="45" />
 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="nextjs" />
-  </a>
+  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/nextjs.svg" width="45" height="45" />
 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="react" />
-  </a>
+  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/react.svg" width="45" height="45" />
 
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="laravel" />
-  </a>
+  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/laravel.svg" width="45" height="45" />
 
-  <a href="https://codeigniter.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="40" height="40" alt="codeigniter" />
-  </a>
+  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/codeigniter.svg" width="45" height="45" />
 
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="tailwindcss" />
-  </a>
+  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/tailwind.svg" width="45" height="45" />
 
 </p>
+
 
 
 </samp>
@@ -60,4 +46,4 @@
 
 <hr>
 <p>Credits: <a href="https://pawpawly.github.io/">Pawpaw</a></p>
-<p>Last Edited on: 01/11/2025</p>
+<p>Last Edited on: 27/11/2025</p>
