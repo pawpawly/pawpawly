@@ -20,7 +20,7 @@
 </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<b><h2 style="color: #fc6203">Languages and Tools</h2> </b>
 
 <p align="center">
 
