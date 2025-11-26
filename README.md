@@ -14,8 +14,8 @@
 
 <p align="left">
 <a href="https://github.com/pawpawly">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliefauzan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliefauzan&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pawpawly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pawpawly&layout=compact&layout=compact&theme=algolia"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliefauzan&radius=16&hide_border=true&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 </a>
