@@ -24,35 +24,36 @@
 
 <p align="center">
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase studio" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="firebase" />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="javascript" />
   </a>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="nextjs" />
   </a>
 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="react" />
   </a>
 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="laravel" />
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="laravel" />
   </a>
 
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter 4" width="40" height="40"/>
+  <a href="https://codeigniter.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="40" height="40" alt="codeigniter" />
   </a>
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="tailwind css" />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="tailwindcss" />
   </a>
 
 </p>
+
 
 </samp>
 </details>
