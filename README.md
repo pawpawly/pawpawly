@@ -23,19 +23,40 @@
 <b><h2 style="color: #fc6203">L A N G U A G E S &nbsp; A N D &nbsp; T O O L S</h2> </b>
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/firebase.svg" width="45" height="45" />
+<h3 align="center">Languages and Tools:</h3>
 
-  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/javascript.svg" width="45" height="45" />
+<p align="center">
 
-  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/nextjs.svg" width="45" height="45" />
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/firebase.svg" width="45" height="45" />
+  </a>
 
-  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/react.svg" width="45" height="45" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/javascript.svg" width="45" height="45" />
+  </a>
 
-  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/laravel.svg" width="45" height="45" />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="nextjs" />
+  </a>
 
-  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/codeigniter.svg" width="45" height="45" />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="react" />
+  </a>
 
-  <img src="https://raw.githubusercontent.com/pawpawly/assets/main/icons/neon/tailwind.svg" width="45" height="45" />
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="laravel" />
+  </a>
+
+  <a href="https://codeigniter.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="40" height="40" alt="codeigniter" />
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="tailwindcss" />
+  </a>
+
+</p>
+
 
 </p>
 
